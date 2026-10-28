@@ -1,0 +1,7 @@
+﻿# Python 运行时产物
+__pycache__/
+*.pyc
+.venv/
+# 本地运行时数据
+*.db
+chat_memory.db
